@@ -548,7 +548,7 @@ function TodoInsert() {
 export default TodoInsert;
 ```
 
-위 코드에서 `// TODO` 형태로 주석이 달린 부분은 나중에 다시 돌아와서 구현을 마저 해주겠습니다.
+# 위 코드에서 `// TODO` 형태로 주석이 달린 부분은 나중에 다시 돌아와서 구현을 마저 해주겠습니다.
 
 #### src/components/TodoItem.tsx
 
